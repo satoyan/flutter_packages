@@ -1,3 +1,6 @@
+## 2.5.0
+* Adds support for passing observers to the StatefulShellBranch for the nested Navigator.
+
 ## 2.4.1
 
 * Fixes new lint warnings.
